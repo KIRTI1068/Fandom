@@ -1,0 +1,78 @@
+body
+{
+  background-color:lightgrey;
+}
+.Header
+{
+  background-color: rgb(189, 218, 215);
+}
+.type
+{
+  margin:5px;
+  text-align: center;
+}
+.search
+{
+  float: right;
+  display:inline-flex;
+  padding: 1%;
+}
+.logo
+{
+  padding: 1%;
+  width: 150px;
+}
+.box{
+  border:20px;
+}
+.searchButton
+{
+  border-width: 0px;
+  border-top-right-radius: 15%;
+  background-color:lightgray;
+  border-bottom-right-radius: 15%;
+}
+.residents
+{
+  text-align: center;
+  margin: 5px;
+}
+.name
+{
+  text-align: center;
+  background-color: lightgrey;
+  font-weight: bold;
+  padding:50px 0;
+  height:150px;
+  font-size: 130%;
+}
+.content
+{
+  padding-bottom:5%;
+  padding-left:4%;
+  margin-left: 9%;
+  padding-top:2%;
+  padding-right:4%;
+  font-family: "Times New Roman";
+  background-color:white;
+}
+.Character
+{
+  background-color: lightgray;
+  height:30px;
+   padding:3%;
+  width:80px;
+  font-size:15px;
+  border-bottom-left-radius: 15%;
+  border-top-left-radius: 15%;
+}
+.sideBar
+{
+  background-color : rgb(189, 218, 215);
+  height:100%;
+  display:table;
+  padding-right:2%;
+  position:absolute;
+  padding-top:2%;
+  font-size:20px;
+}
